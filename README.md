@@ -1,5 +1,5 @@
 ![inno93's GitHub stats](https://github-readme-stats.vercel.app/api?username=inno93&show_icons=true&theme=dracula)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsgh8904)](https://solved.ac/dlsgh8904)
 <!--
 **inno93/inno93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
