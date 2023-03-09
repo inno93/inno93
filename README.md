@@ -1,4 +1,4 @@
-### Hi there 👋
+![inno93's GitHub stats](https://github-readme-stats.vercel.app/api?username=inno93&show_icons=true&theme=dracula)
 
 <!--
 **inno93/inno93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
